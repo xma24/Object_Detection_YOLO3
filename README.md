@@ -1,2 +1,2 @@
-# object_detection_yolo3
-Object detection with YOLO3
+# Implementation of YOLO3 for Object Detection
+Object Detection with YOLO3
