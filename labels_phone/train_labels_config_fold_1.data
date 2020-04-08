@@ -1,0 +1,4 @@
+classes=1
+train=./labels_phone/train_labels_config_fold_1.txt
+valid=./labels_phone/val_labels_config_fold_1.txt
+names=./labels_phone/train_labels_names_fold_1.names
